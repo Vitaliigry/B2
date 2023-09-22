@@ -19,4 +19,4 @@ public class ifWithoutBrackets {
             System.out.println("Another print statement");  // this one has nothing to do with if statement.
         }
     }
-}
+
